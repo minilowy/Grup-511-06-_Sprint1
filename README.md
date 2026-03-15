@@ -33,4 +33,30 @@ Les actes de reunions de l'equip es troben en:
 
 - [Minutes](minutes/)
 
-Cada reunió es guarda en un arxiu amb el format:
+---
+
+### Altres documents
+
+Altres documents o plantilles utilitzades durant el projecte es poden trobar en:
+
+- [Others](others/)
+
+---
+
+## Sprint 1
+
+Durant aquest sprint s'han realitzat les següents tasques:
+
+- Definició dels requisits funcionals
+- Definició dels requisits no funcionals
+- Elaboració del document d'especificacions
+- Creació de l'estructura inicial del repositori
+
+---
+
+## Equip del projecte
+
+- Ferran Castro  
+- Mustafa Bouchrit  
+- Jonathan Fuentes  
+- Loay Elsayed
